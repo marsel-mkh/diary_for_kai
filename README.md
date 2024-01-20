@@ -23,6 +23,7 @@ Registration form:
 Menu: 
 
 ![image](https://github.com/marsel-mkh/diary_for_kai/assets/156915440/68ebe25d-71ee-499b-ba97-3d92f270d851)
+
 Student ID form:
 
 ![image](https://github.com/marsel-mkh/diary_for_kai/assets/156915440/c52b37dc-e629-4ec9-8582-d0420257b24c)
