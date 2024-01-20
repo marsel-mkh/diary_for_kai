@@ -13,18 +13,30 @@ He opens the application and goes to the “Student ID” tab. After which the u
 
 The project has the following forms:
 Authentication form:
+
 ![image](https://github.com/marsel-mkh/diary_for_kai/assets/156915440/0a8be6cc-42e6-44fb-beac-a913f607022a)
+
 Registration form:
+
 ![image](https://github.com/marsel-mkh/diary_for_kai/assets/156915440/1e494995-faf8-47d1-aa63-9cda8c6b2438)
+
 Menu: 
+
 ![image](https://github.com/marsel-mkh/diary_for_kai/assets/156915440/68ebe25d-71ee-499b-ba97-3d92f270d851)
-Student ID form: 
+Student ID form:
+
 ![image](https://github.com/marsel-mkh/diary_for_kai/assets/156915440/c52b37dc-e629-4ec9-8582-d0420257b24c)
+
 Student truancy form:
+
 ![image](https://github.com/marsel-mkh/diary_for_kai/assets/156915440/2c7222ab-6795-4780-961c-34548acdc3ca)
+
 Record book form:
+
 ![image](https://github.com/marsel-mkh/diary_for_kai/assets/156915440/b0f485ac-cef6-44e6-8b09-28961cdcba8b)
+
 Dashboard form:
+
 ![image](https://github.com/marsel-mkh/diary_for_kai/assets/156915440/fde48452-fb04-41bd-9eca-b77c3538f81b)
 
 
